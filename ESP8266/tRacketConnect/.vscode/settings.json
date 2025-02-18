@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.md": "markdown",
+        "arduinojson.hpp": "c",
+        "esp8266timerinterrupt.h": "c",
+        "esp8266wifi.h": "c",
+        "espasyncwebserver.h": "c",
+        "arduinojson.h": "c"
+    }
+}
